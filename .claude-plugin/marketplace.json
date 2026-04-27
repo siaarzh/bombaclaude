@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "bombaclaude",
+  "description": "Make Claude chat Jamaican Patois. Same brain, full vibes.",
+  "owner": {
+    "name": "siaarzh",
+    "url": "https://github.com/siaarzh"
+  },
+  "plugins": [
+    {
+      "name": "bombaclaude",
+      "description": "Patois mode for Claude. Three tiers — lite, full, raw. Same technical accuracy.",
+      "source": "./",
+      "category": "fun"
+    }
+  ]
+}
