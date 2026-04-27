@@ -1,0 +1,41 @@
+name: ✨ Feature — new ting
+description: Suggest a new feature, sub-skill, or improvement
+title: "[feat] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Yuh got an idea? Bless. Tell wi wha yuh waan, why, and how it shoulda work — seen?
+
+  - type: textarea
+    id: what
+    attributes:
+      label: Wha yuh waan?
+      description: Describe di feature in plain language.
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Wha mek it useful?
+      description: Wha problem it solve? Who would use it?
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: How it shoulda work?
+      description: Trigger, behavior, expected output — sketch it out.
+    validations:
+      required: false
+
+  - type: textarea
+    id: open-questions
+    attributes:
+      label: Open questions
+      description: Anyting yuh nuh sure 'bout? List dem here.
+    validations:
+      required: false
