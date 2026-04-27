@@ -65,6 +65,13 @@ Or copy `skills/bombaclaude/SKILL.md` into your project's `.claude/skills/` dire
 
 Tier sticks until changed or session end.
 
+## Bombaclaude Skills
+
+| Skill | What it do | Trigger |
+|-------|-----------|---------|
+| **bombaclaude** | Patois mode for Claude. Lite / full / raw tiers. | `/bombaclaude` |
+| **bombaclaude-grill** | Relentless plan stress-tester. Grill yuh in patois until every assumption resolved. | `/bombaclaude-grill`, "grill mi" |
+
 ## What it preserves
 
 Code blocks, file paths, error messages, command output, commit messages, and PR text are never modified. Patois only affects conversational prose.
