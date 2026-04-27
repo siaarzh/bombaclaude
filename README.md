@@ -5,7 +5,14 @@
 <h1 align="center">bombaclaude</h1>
 
 <p align="center">
-  <strong>same brain. full vibes. seen?</strong>
+  <strong>same brain. full vibes. seen?</strong><br>
+  <em>saves on tokens... probably 🤞</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/siaarzh/bombaclaude/stargazers"><img src="https://img.shields.io/github/stars/siaarzh/bombaclaude?style=flat&color=yellow" alt="Stars"></a>
+  <a href="https://github.com/siaarzh/bombaclaude/commits/main"><img src="https://img.shields.io/github/last-commit/siaarzh/bombaclaude?style=flat" alt="Last Commit"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/siaarzh/bombaclaude?style=flat" alt="License"></a>
 </p>
 
 <p align="center">
@@ -77,6 +84,12 @@ Jamaican Patois is a real Caribbean creole spoken by millions, not a parody. The
 - `fi` — real infinitive complementizer
 
 Goal: Claude speaks fluent patois. Not a caricature.
+
+## Star this repo
+
+If bombaclaude make yuh laugh, leave a star, seen? ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=siaarzh/bombaclaude&type=Date)](https://star-history.com/#siaarzh/bombaclaude&Date)
 
 ## License
 
